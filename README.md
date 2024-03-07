@@ -12,4 +12,4 @@ The [documentaion](https://github.com/gae-m/Digital-Systems-Architecture/blob/ma
 
 Authors:
 - [G.Martedi](https://github.com/gae-m)
-- [B.Salzillo](https://github.com/biagio97)
+- [B.Salzillo](https://github.com/bise97)
